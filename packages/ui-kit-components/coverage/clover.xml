@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1671817563246" clover="3.2.0">
+  <project timestamp="1671817563246" name="All files">
+    <metrics statements="242" coveredstatements="224" conditionals="154" coveredconditionals="94" methods="75" coveredmethods="37" elements="471" coveredelements="355" complexity="0" loc="242" ncloc="242" packages="14" files="49" classes="49"/>
+    <package name="components.Branding.Logo">
+      <metrics statements="10" coveredstatements="10" conditionals="5" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="Logo.tsx" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\components\Branding\Logo\Logo.tsx">
+        <metrics statements="10" coveredstatements="10" conditionals="5" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="17" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="19" count="3" type="cond" truecount="3" falsecount="0"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Branding.LogoBrand">
+      <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="LogoBrand.tsx" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\components\Branding\LogoBrand\LogoBrand.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="10" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="9" type="stmt"/>
+        <line num="12" count="9" type="cond" truecount="1" falsecount="1"/>
+        <line num="14" count="9" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Branding.LogoText">
+      <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="LogoText.tsx" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\components\Branding\LogoText\LogoText.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="10" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="9" type="stmt"/>
+        <line num="12" count="9" type="cond" truecount="1" falsecount="1"/>
+        <line num="14" count="9" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Button">
+      <metrics statements="9" coveredstatements="9" conditionals="6" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <file name="button.tsx" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\components\Button\button.tsx">
+        <metrics statements="9" coveredstatements="9" conditionals="6" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="22" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="42" count="7" type="cond" truecount="1" falsecount="0"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="64" count="6" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Graph">
+      <metrics statements="60" coveredstatements="45" conditionals="54" coveredconditionals="32" methods="17" coveredmethods="11"/>
+      <file name="line-utils.ts" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\components\Graph\line-utils.ts">
+        <metrics statements="33" coveredstatements="29" conditionals="23" coveredconditionals="17" methods="9" coveredmethods="8"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="33" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="34" count="5" type="stmt"/>
+        <line num="35" count="5" type="stmt"/>
+        <line num="36" count="31" type="stmt"/>
+        <line num="38" count="31" type="stmt"/>
+        <line num="40" count="31" type="cond" truecount="4" falsecount="0"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="49" count="4" type="stmt"/>
+        <line num="50" count="4" type="stmt"/>
+        <line num="51" count="22" type="stmt"/>
+        <line num="52" count="22" type="cond" truecount="2" falsecount="0"/>
+        <line num="55" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="84" count="1" type="stmt"/>
+        <line num="89" count="3" type="stmt"/>
+        <line num="90" count="13" type="stmt"/>
+        <line num="91" count="3" type="stmt"/>
+        <line num="92" count="8" type="cond" truecount="1" falsecount="0"/>
+        <line num="93" count="3" type="stmt"/>
+        <line num="110" count="3" type="stmt"/>
+        <line num="113" count="1" type="stmt"/>
+        <line num="114" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="115" count="0" type="stmt"/>
+        <line num="116" count="2" type="cond" truecount="3" falsecount="1"/>
+        <line num="117" count="0" type="stmt"/>
+        <line num="118" count="2" type="cond" truecount="3" falsecount="1"/>
+        <line num="119" count="0" type="stmt"/>
+        <line num="121" count="2" type="stmt"/>
+      </file>
+      <file name="line.tsx" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\components\Graph\line.tsx">
+        <metrics statements="27" coveredstatements="16" conditionals="31" coveredconditionals="15" methods="8" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="71" count="2" type="stmt"/>
+        <line num="72" count="2" type="stmt"/>
+        <line num="73" count="4" type="stmt"/>
+        <line num="75" count="2" type="stmt"/>
+        <line num="76" count="4" type="stmt"/>
+        <line num="79" count="2" type="stmt"/>
+        <line num="80" count="2" type="stmt"/>
+        <line num="86" count="2" type="stmt"/>
+        <line num="104" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="105" count="0" type="stmt"/>
+        <line num="107" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="124" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="125" count="0" type="stmt"/>
+        <line num="127" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="133" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="134" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="138" count="0" type="stmt"/>
+        <line num="201" count="0" type="stmt"/>
+        <line num="231" count="0" type="stmt"/>
+        <line num="240" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="241" count="2" type="stmt"/>
+        <line num="255" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.IndexTickers">
+      <metrics statements="19" coveredstatements="18" conditionals="49" coveredconditionals="26" methods="3" coveredmethods="3"/>
+      <file name="IndexTickers.tsx" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\components\IndexTickers\IndexTickers.tsx">
+        <metrics statements="19" coveredstatements="18" conditionals="49" coveredconditionals="26" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="30" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="27" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="30" count="6" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="40" count="10" type="stmt"/>
+        <line num="41" count="10" type="stmt"/>
+        <line num="42" count="10" type="stmt"/>
+        <line num="43" count="10" type="stmt"/>
+        <line num="44" count="10" type="cond" truecount="1" falsecount="1"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="92" count="10" type="stmt"/>
+        <line num="173" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.PageNotFound">
+      <metrics statements="12" coveredstatements="10" conditionals="6" coveredconditionals="2" methods="4" coveredmethods="2"/>
+      <file name="PageNotFound.tsx" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\components\PageNotFound\PageNotFound.tsx">
+        <metrics statements="12" coveredstatements="10" conditionals="6" coveredconditionals="2" methods="4" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="71" count="4" type="stmt"/>
+        <line num="118" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Pill">
+      <metrics statements="4" coveredstatements="4" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="Pill.tsx" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\components\Pill\Pill.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="35" count="4" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.SplashScreen">
+      <metrics statements="9" coveredstatements="9" conditionals="8" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="SplashScreen.tsx" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\components\SplashScreen\SplashScreen.tsx">
+        <metrics statements="9" coveredstatements="9" conditionals="8" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.TextSearch">
+      <metrics statements="17" coveredstatements="17" conditionals="10" coveredconditionals="8" methods="7" coveredmethods="7"/>
+      <file name="TextSearch.tsx" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\components\TextSearch\TextSearch.tsx">
+        <metrics statements="17" coveredstatements="17" conditionals="10" coveredconditionals="8" methods="7" coveredmethods="7"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="20" count="23" type="cond" truecount="3" falsecount="0"/>
+        <line num="21" count="20" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="31" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="3" type="stmt"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="43" count="9" type="stmt"/>
+        <line num="51" count="3" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="60" count="23" type="cond" truecount="2" falsecount="1"/>
+        <line num="63" count="6" type="stmt"/>
+        <line num="68" count="23" type="stmt"/>
+        <line num="71" count="20" type="stmt"/>
+        <line num="91" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Typography">
+      <metrics statements="13" coveredstatements="13" conditionals="5" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <file name="Typography.tsx" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\components\Typography\Typography.tsx">
+        <metrics statements="13" coveredstatements="13" conditionals="5" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="54" count="12" type="stmt"/>
+        <line num="55" count="12" type="cond" truecount="1" falsecount="0"/>
+        <line num="56" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="58" count="12" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="icons">
+      <metrics statements="35" coveredstatements="35" conditionals="0" coveredconditionals="0" methods="35" coveredmethods="5"/>
+      <file name="index.ts" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\index.ts">
+        <metrics statements="35" coveredstatements="35" conditionals="0" coveredconditionals="0" methods="35" coveredmethods="5"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="9" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="9" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="28" count="3" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="30" count="3" type="stmt"/>
+        <line num="31" count="3" type="stmt"/>
+        <line num="32" count="3" type="stmt"/>
+        <line num="33" count="3" type="stmt"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="35" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="icons.images">
+      <metrics statements="35" coveredstatements="35" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="AlarmBellIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\AlarmBellIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="ArrowDownIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\ArrowDownIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="ArrowLeftIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\ArrowLeftIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="ArrowRightIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\ArrowRightIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="ArrowUpIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\ArrowUpIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="BanIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\BanIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="BarIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\BarIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="CalendarIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\CalendarIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="CandleIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\CandleIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="CheckIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\CheckIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="ChevronDownIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\ChevronDownIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="ChevronLeftIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\ChevronLeftIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="ChevronRightIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\ChevronRightIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="ChevronUpIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\ChevronUpIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="CloseIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\CloseIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="CogIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\CogIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="DotsIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\DotsIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="DownloadIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\DownloadIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="EditIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\EditIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="FilterIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\FilterIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="GroupsIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\GroupsIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="InfoIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\InfoIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="LineIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\LineIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="LockIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\LockIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="NotificationIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\NotificationIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="PlusIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\PlusIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="RefreshIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\RefreshIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="SearchIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\SearchIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="SettingsIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\SettingsIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="StopIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\StopIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="ThumbDownIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\ThumbDownIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="TimerIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\TimerIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="TrashIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\TrashIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="UploadIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\UploadIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+      <file name="ViewIcon.svg" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\icons\images\ViewIcon.svg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="useIsDarkMode.tsx" path="C:\MyProjects\ui-kit-2022-Honglin\packages\ui-kit-components\src\utils\useIsDarkMode.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
